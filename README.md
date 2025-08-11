@@ -1,5 +1,4 @@
-# Healthcare-Operations-and-Finance-BI-Dashboard 🏥
- 
+# Healthcare-Operations-and-Finance-BI-Dashboard🏥 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
@@ -8,6 +7,9 @@
 A comprehensive Power BI dashboard designed to provide a 360-degree view of hospital operations. This project leverages data from SQL and Excel to deliver actionable insights for hospital administrators, doctors, and financial analysts. The dashboard focuses on key performance indicators across patient care, hospital resources, doctor performance, and financial health.
 
 ---
+## Dashboard Overview
+<img width="1316" height="737" alt="Image" src="https://github.com/user-attachments/assets/5a1ce901-2230-4ce6-9280-98ed5f564a71" />
+
 
 ## ✨ Key Features
 
@@ -81,6 +83,21 @@ To run this project locally, you'll need Power BI Desktop installed.
     * Point the connection to your local SQL server instance and the provided Excel files. You may need to update the credentials in `Transform data` -> `Data source settings`.
 
 ---
+##Snapshots from the Dashboard
+
+## Snapshots Section
+<img width="1211" height="657" alt="Image" src="https://github.com/user-attachments/assets/e05b4fee-7852-4804-9f84-97b14d61f15a" />
+
+<img width="1119" height="583" alt="Image" src="https://github.com/user-attachments/assets/7c0abc5f-e5b9-46ef-b3cb-7b50c49f5355" />
+
+
+<img width="1213" height="676" alt="Image" src="https://github.com/user-attachments/assets/9456e370-0c72-4ed5-870b-9de505768d01" />
+
+
+<img width="1227" height="680" alt="Image" src="https://github.com/user-attachments/assets/8823a579-bee1-4a72-8f21-7103cf303663" />
+<img width="1223" height="682" alt="Image" src="https://github.com/user-attachments/assets/f9aaa57a-38b2-4553-91f7-f2e1e1ae6a50" />
+
+
 
 ## ©️ LICENSE
 
